@@ -45,16 +45,6 @@ Repozytorium zostało zaprojektowane tak, aby było **czytelne i intuicyjne**.
 
 ---
 
-## 🌐 Oficjalna strona projektu
-
-Więcej informacji, aktualności oraz dodatkowe materiały znajdziesz na oficjalnej stronie:
-
-👉 [https://twojastrona.pl](https://twojastrona.pl)
-
-Strona zawiera rozszerzone treści, przykłady wdrożeń oraz aktualne publikacje.
-
----
-
 ## 📈 Dlaczego warto śledzić projekt?
 
 * rzetelna i aktualna wiedza
